@@ -1,0 +1,2 @@
+# S200H_I5-8300H_EFI
+s200小主机+DW1820A+macOS_Mojavae_10.14.6
